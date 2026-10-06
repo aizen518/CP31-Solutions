@@ -10,7 +10,7 @@ competitive programming fundamentals and Codeforces rating.
 
 | Rating | Solved | Total |
 |-------:|-------:|------:|
-| 800    |    0   |   31  |
+| 800    |   14   |   31  |
 | 900    |    0   |   31  |
 | 1000   |    0   |   31  |
 | 1100   |    0   |   31  |
