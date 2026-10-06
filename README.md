@@ -1,5 +1,5 @@
 # CP31-Solutions
-C++ solutions to the TLE Eliminators CP31 Sheet, organized by rating with problem-solving approaches and progress tracking.
+C++ solutions to the problems from TLE CP-31 sheet that I find intriguing, confusing and uses important algorithms.
 
 CP31 sheet- https://www.tle-eliminators.com/cp-sheet
 
@@ -10,18 +10,18 @@ competitive programming fundamentals and Codeforces rating.
 
 | Rating | Solved | Total |
 |-------:|-------:|------:|
-| 800    | 0 | 31 |
-| 900    | 0 | 31 |
-| 1000   | 0 | 31 |
-| 1100   | 0 | 31 |
-| 1200   | 0 | 31 |
-| 1300   | 0 | 31 |
-| 1400   | 0 | 31 |
-| 1500   | 0 | 31 |
-| 1600   | 0 | 31 |
-| 1700   | 0 | 31 |
-| 1800   | 0 | 31 |
-| 1900   | 0 | 31 |
+| 800    |    0   |   31  |
+| 900    |    0   |   31  |
+| 1000   |    0   |   31  |
+| 1100   |    0   |   31  |
+| 1200   |    0   |   31  |
+| 1300   |    0   |   31  |
+| 1400   |    0   |   31  |
+| 1500   |    0   |   31  |
+| 1600   |    0   |   31  |
+| 1700   |    0   |   31  |
+| 1800   |    0   |   31  |
+| 1900   |    0   |   31  |
 
 ## Topics Covered
 
