@@ -1,4 +1,4 @@
-  // Problem: Quests
+  // Problem: Yarik and array
   //   Codeforces: 1899C
   //   Rating: 1100
   //   Topic: Prefix sum, sorting
