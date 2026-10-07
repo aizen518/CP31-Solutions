@@ -1,4 +1,4 @@
-  // Problem: Quests
+  // Problem: Collecting Game
   //   Codeforces: 1904B
   //   Rating: 1100
   //   Topic: Prefix sum, sorting, dp
