@@ -1,4 +1,4 @@
-  // Problem: Quests
+  // Problem: Maximum Sum
   //   Codeforces: 1832B
   //   Rating: 1100
   //   Topic: Prefix sum, sorting
